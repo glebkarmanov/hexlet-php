@@ -1,0 +1,16 @@
+{
+    "name": "gleb/karmanov",
+    "description": "hexlet-php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gleb\\Karmanov\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "glebkarmanov"
+        }
+    ],
+    "require": {}
+}
