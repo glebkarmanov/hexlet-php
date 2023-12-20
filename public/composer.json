@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "slim/slim": "^4.12"
+    }
+}
